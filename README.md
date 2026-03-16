@@ -1,16 +1,13 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 🙏🏻, I'm Marco Milad</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 🙏🏻, I'm Akram Yousef</h2>
 <img align='right' src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="280">
 <h3 align="left"><em>A Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></h3>
 
-[![Linkedin: marco-milad](https://img.shields.io/badge/-marco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-milad)](https://www.linkedin.com/in/marco-milad)
-
 ### 📫 Contact
 
 <p>
-<a href="mailto:marcomelad2022@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:marcomelad2022@gmail.com" alt="Gmail"></a>  
-<a href="https://api.whatsapp.com/send?phone=+201553864415&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201553864415&text=Hi!)](" alt="Whatsapp"></a>
-<a href="https://wuzzuf.net/me/Marco-Melad-279b94c349?utm_medium=other&utm_source=referral" target="_blank"><img src="https://img.shields.io/badge/-Wuzzuf-1da1f2?style=flat-square&labelColor=1da1f2&logo=wuzzuf&logoColor=white&link=https://wuzzuf.net/me/Marco-Melad-279b94c349?utm_medium=other&utm_source=referral" alt="Twitter"></a>  
+<a href="mailto:slamaabram1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:slamaabram1@gmail.com" alt="Gmail"></a>  
+<a href="https://api.whatsapp.com/send?phone=+201019190875&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201553864415&text=Hi!)](" alt="Whatsapp"></a>
 </p>
 
 ### 👇 A little more about me...
