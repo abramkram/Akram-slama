@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 🙏🏻, I'm Akram Yousef</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 🙏🏻, I'm Akram Slama</h2>
 <img align='right' src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="280">
 <h3 align="left"><em>A Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></h3>
